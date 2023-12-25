@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: #76b852;
+}
+.container{
+    padding: 50px;
+    background-color: #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    text-align: center;
+}
+.number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.number input{
+    border: 1px solid #76b852;
+    text-align: center;
+    padding-block: 10px;
+    width: 70px;
+    font-weight: 900;
+    background-color: #ffffff;
+    text-align: center; /* yazı kutuyu ortalasın */
+}
+.number input:focus{
+    outline: none;
+}
+#buton{
+    width: 120px;
+    font-size: medium;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #76b852;
+    cursor: pointer;
+    background-color: white;
+    margin-bottom: 10px;
+    color: #76b852;
+}
+#buton:hover{
+    background-color: gainsboro;
+}
+
+#count{
+    margin: 10px;
+}
+#past{
+    margin: 10px;
+}

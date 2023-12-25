@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <p style="margin-bottom: 20px; font-size: large; color: #000000;">1-100 arasında bir sayı tahmin et</p>
+        <div class="number">
+            <input id="number" type="text" placeholder="sayı gir">
+        </div>
+        <button id="buton" onclick="game()">Tahmin et</button>
+        <p id="correct" style="color: #80d850; font-size: x-large;"></p>
+        <p id="notcorrect" style="color: #cc2f2c; font-size: large;"></p>
+        <p id="count" style="color: #000000; font-size: large;">Yapılan tahmin sayısı: 0</p>
+        <p id="past" style="color: #000000; font-size: large;">Tahmin edilen sayılar: </p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
