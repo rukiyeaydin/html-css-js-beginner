@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #BDBDBD;
+}
+.all{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    width: 250px;
+}
+.password{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.password input{
+    border: none;
+    background-color: white;
+    height: 30px;
+    width: 90%;
+    margin: 5px;
+}
+.password input:focus{
+    outline: none;
+}
+.password i{
+    background-color: white;
+    color: gray;
+    cursor: pointer;
+}
+.text, .text i, .text p{
+    background-color: white;
+}
+.text{
+    display: none;
+}
+.text.aktif{
+    display: block;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+.text i{
+    margin-right: 10px;
+}
