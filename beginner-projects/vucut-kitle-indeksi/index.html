@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <div class="container">
+        <input type="range" min="30" max="300" value="30" id="kilo" oninput="hesapla()">
+        <span id="kilo_value">30 kg</span>
+        <input type="range" min="30" max="300" value="30" id="boy" oninput="hesapla()">
+        <span id="boy_value">50 cm</span>
+        <div class="row2">
+            <span id="index">20.0</span>
+        </div>
+        <p id="metin">Normal kilo</p>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
