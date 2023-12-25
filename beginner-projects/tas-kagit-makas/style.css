@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background: #f6f7fb;
+}
+
+.container {
+    text-align: center;
+    background: #fff;
+    padding: 30px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1{
+    color: turquoise;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    color: palevioletred;
+    border: 1px solid palevioletred;
+    background-color: transparent;
+}
+button:hover{
+    background-color: #f6f7fb;
+}
+#result {
+    margin-top: 20px;
+    font-size: 24px;
+}
+  
