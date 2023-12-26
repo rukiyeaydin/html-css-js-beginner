@@ -10,10 +10,10 @@
 | `08` | [Hesap Makinesi](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/08-hesap_makinesi) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/80270757-346f-41c5-831f-ec119bb7b5d3)
 | `09` | [Pixel Art](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/09-pixel_art) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/0751e06f-13b0-414c-917d-7f81aa9c5d13)
 | `10` | [Responsive Navbar](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/10-responsive_navbar) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/2d8f75bc-41fd-4d89-b340-aee32ac226e5)
-| `11` | [Sözlük Uygulaması](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/11-sozluk_uygulamas%C4%B1) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/10d5cd22-6eaa-4a38-9602-5c66122a16e1)
+| `11` | [Sözlük Uygulaması](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/11-sozluk_uygulamasi) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/10d5cd22-6eaa-4a38-9602-5c66122a16e1)
 | `12` | [To-Do App](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/12-todo_app) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/90a78a64-0b68-483b-9ff9-40046551c9af)
 | `13` | [Taş Kağıt Makas](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/13-tas_kagit_makas_oyunu) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/fb745113-1ba4-426c-af1c-f6eeabd7b2b4)
-| `14` | [Hava Durumu Uygulaması](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/14-hava_durumu_uygulamas%C4%B1) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/a7875f50-bb4e-4bbe-bd7e-df7472ef14cb)
+| `14` | [Hava Durumu Uygulaması](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/14-hava_durumu_uygulamasi) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/a7875f50-bb4e-4bbe-bd7e-df7472ef14cb)
 | `15` | [CRUD](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/15-CRUD) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/d79092b2-a938-41bb-bd2c-4b055950420a)
 
  
