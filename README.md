@@ -1,6 +1,6 @@
 | Proje Numarası | Proje Kodu | Proje Resmi | 
 | :---: | :---: | :---: |
-| `01` | [Sayaç](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/01-%20sayac) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/59878373-2c30-4a15-bb46-26db60d8f957)
+| `01` | [Sayaç](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/01-sayac) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/59878373-2c30-4a15-bb46-26db60d8f957)
 | `02` | [Arkaplan renk değiştirme](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/02-rgb_background) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/4455fbaa-d645-4e33-b252-6e5128cca837)
 | `03` | [Vücut Kitle İndeksi](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/03-vucut_kitle_indeksi) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/15b621ba-cb34-49dd-a756-5de9e3b1369d)
 | `04` | [Sıcaklık Birimi Dönüşümü](https://github.com/rukiyeaydin/html-css-js-beginner/tree/main/beginner-projects/04-temperature_converter) | ![image](https://github.com/rukiyeaydin/html-css-js-beginner/assets/86829926/fac971f9-650f-4e1a-8d00-e681eaa74dca)
